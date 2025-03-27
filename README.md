@@ -73,7 +73,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https:www.linkedin.com/in/luciano-nuñez-pérez-b795b8216" target="blank"><img align="center" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/luciano-nu%C3%B1ez-p%C3%A9rez-b795b8216/" target="blank"><img align="center" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/nunez_luciano/" target="blank"><img align="center" src="https://wallpapers.com/images/hd/instagram-black-background-1920-x-1440-p20ti2xt91fe1h1d.jpg" alt="instagram" height="60" width="80" /></a>
 <a href="https://discordapp.com/users/583346979967598614" target="blank"><img align="center" src="https://s.widget-club.com/samples/UrhwlDDkXlOvs21te68LIxYhUyn2/E1HlYJV1IQKBKSYQBXuk/56C2068E-8A74-46F4-B8D4-869DEF8BD1A8.jpg?q=70" alt="discord" height="60" width="60" /></a>
   
