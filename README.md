@@ -37,7 +37,7 @@
 
 - 📫 
 
-- 🏠  Discord –  [luchoneitor](https://discordapp.com/users/583346979967598614) my username!
+- 🏠  Discord –  [luchoneitor](https://discordapp.com/users/583346979967598614) Mi Usuario!
 <!--Intro end-->
 
 ## Stats GitHub
@@ -48,14 +48,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=luchito12&theme=algolia&show_icons=true&hide_border=true&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=luchito12&theme=algolia&show_icons=true&hide_border=true&count_private=true" />
   <br></br>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=luchito12&theme=algolia&hide_border=true"/> 
+  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=luchito12&theme=algolia&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchito12&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchito12&theme=algolia&show_icons=true&hide_border=true&layout=compact" />
   
   </td>
 </tr>
