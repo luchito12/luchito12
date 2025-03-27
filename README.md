@@ -23,7 +23,7 @@
   </ul>
 </div>
 
-
+## Cosas Sobre Mi
 <!--Intro start-->
 - 🔭 
 
@@ -40,8 +40,7 @@
 - 🏠  Discord –  [luchoneitor](https://discordapp.com/users/583346979967598614) my username!
 <!--Intro end-->
 
-
-
+## Stats GitHub
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -62,3 +61,14 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
+## Contador De Visitas
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/luchito12/count.svg" />  
+</p>
+   
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
