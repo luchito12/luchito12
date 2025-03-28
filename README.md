@@ -25,9 +25,9 @@
 
 ## Cosas Sobre Mi
 <!--Intro start-->
-- 🔭 
+- 🔭 Estudiante De Ingenieria En Sistemas en UTN FRBA
 
-- 🌱 
+- 🌱 Me Interesan Los Campos De Inteligencia Artifcial, Teoria De Numeros, Ciencia De Datos y Mecanica Cuantica 
 
 - ☁️ 
 
@@ -35,9 +35,9 @@
 
 - 💬 
 
-- 📫 
+- 📫 Me Podes Contactar Via Correo Mediante nunezluciano001@gmail.com
 
-- 🏠  Discord –  [luchoneitor](https://discordapp.com/users/583346979967598614) Mi Usuario!
+- 🏠  Soy De Argentina, Provincia De Buenos Aires 
 <!--Intro end-->
 
 ## Stats GitHub
