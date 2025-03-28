@@ -33,7 +33,7 @@
 
 - 📝 
 
-- 💬 
+- 💬 El Uso De Este Github Tiene Fines Academicos Aunque Tambien Podes Encontrar Trabajos Personales o Proyectos
 
 - 📫 Me Podes Contactar Via Correo Mediante nunezluciano001@gmail.com
 
